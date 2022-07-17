@@ -15,49 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GameObject.cpp">
+    <ClCompile Include="delta_time.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FrameWork.cpp">
+    <ClCompile Include="update_method.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Scene.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Component.cpp">
+    <ClCompile Include="framework.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Time.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Input.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GameObject.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="FrameWork.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Scene.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Component.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
     <ClInclude Include="stdafx.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Time.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Input.h">
-      <Filter>소스 파일</Filter>
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

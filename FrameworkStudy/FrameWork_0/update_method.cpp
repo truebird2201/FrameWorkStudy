@@ -1,5 +1,4 @@
-#include <Windows.h>
-#include <vector>
+#include "stdafx.h"
 
 using namespace std;
 

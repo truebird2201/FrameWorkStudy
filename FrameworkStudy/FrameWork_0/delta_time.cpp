@@ -1,4 +1,4 @@
-#include <Windows.h>
+#include "stdafx.h"
 void input();
 void update(double);
 void render(double);
